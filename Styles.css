@@ -109,7 +109,7 @@ p {
 }
 
 h4 {
-    font-size: 24px;
+    font-size: 21px;
     margin-bottom: 10px;
     color: #007bff; 
 }
@@ -129,6 +129,7 @@ h4 {
 
 .team-member {
     text-align: center;
+    font-size: 15px;
 }
 
 .team-member img {
@@ -140,8 +141,8 @@ h4 {
 
 .Leadership {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 20px;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 16px;
     margin-top: 40px;
     justify-content: center;
 }
