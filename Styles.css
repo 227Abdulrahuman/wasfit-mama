@@ -155,7 +155,9 @@ h4 {
     border-radius: 50%;
     margin-bottom: 10px;
 }
-
+.Center {
+    text-align: center;
+}
 .Leadership {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
